@@ -69,6 +69,12 @@ main{
 		margin: 0 auto;
 	}
 
+	.super-heroes{
+		width: 80%;
+		margin: 2em 3em 2em 3em;
+		height: 20vh;
+	}	
+
 	.hero-img img{
 		height: 80%;
 		width: 170px;
